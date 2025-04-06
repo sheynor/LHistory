@@ -45,7 +45,7 @@
 Музыка и звуки - [Bocchi The Rock!](https://youtu.be/KkZZNA-RzNQ?si=l4XzHyTnAA1EQaPc)
 
 ## Ссылки на автора
-[Telegram](https://t.me/sheynor43)
+[![Telegram](https://github.com/sheynor/LHistory/blob/images/screenshots/photo_2025-04-06_15-31-04.jpg)](https://t.me/sheynor43)]
 
 
 
