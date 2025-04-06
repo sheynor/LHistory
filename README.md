@@ -18,6 +18,7 @@
 5) Заготовки на будущее 🌟
 
 ## Описание
+![](https://github.com/sheynor/LHistory/blob/images/screenshots/window_icon.png)  
 Визуальнная новелла LHistory познакомит вас с разными ситуациями и событиями в лицее №2 от лиц разных учеников. В игре присутсвуют всячиские приколы, разные концовки, побочные события, и много много другого. 
 
 ### Изображения
@@ -45,7 +46,7 @@
 Музыка и звуки - [Bocchi The Rock!](https://youtu.be/KkZZNA-RzNQ?si=l4XzHyTnAA1EQaPc)
 
 ## Ссылки на автора
-[![Telegram](https://github.com/sheynor/LHistory/blob/images/screenshots/photo_2025-04-06_15-31-04.jpg)](https://t.me/sheynor43)]
+[![Telegram](https://github.com/sheynor/LHistory/blob/images/screenshots/photo_2025-04-06_15-31-04.jpg)](https://t.me/sheynor43)
 
 
 
