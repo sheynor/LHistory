@@ -22,7 +22,7 @@
 Визуальнная новелла LHistory познакомит вас с разными ситуациями и событиями в лицее №2 от лиц разных учеников. В игре присутсвуют всячиские приколы, разные концовки, побочные события, и много много другого. 
 
 ### Изображения
-![1](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-53-52.png)
+![1](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-53-52.png) 
 ![2](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-57-43.png)
 ![3](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-58-38.png)
 ![4](https://github.com/sheynor/LHistory/blob/images/screenshots/image_2025-04-06_14-59-18.png)
