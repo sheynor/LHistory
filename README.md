@@ -40,7 +40,7 @@
 ## Инструменты
 Проект выполнен с помощью игрового движка - [RenPy](https://www.renpy.org)  
 
-Графика - [Adobe Photoshop 2025](https://www.adobe.com/ru/products/photoshop.html)  
+Графика - [Adobe Photoshop 2025](https://www.adobe.com/ru/products/photoshop.html), [ChatGPT](https://chatgpt.com)  
 
 Музыка и звуки - [Bocchi The Rock!](https://youtu.be/KkZZNA-RzNQ?si=l4XzHyTnAA1EQaPc)
 
